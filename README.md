@@ -1,11 +1,10 @@
 # Issue Status
 
-Issue Status is the static client-side status page built on React using GitHub Issues for Component and Incident reporting with live updating using the GitHub API, there is no need to rebuild and redeploy for every update. All hosted on GitHub Pages
+Issue Status is the static client-side status page built on React using GitHub Issues for Component and Incident reporting with live updating using the GitHub API hosted on GitHub Pages.
 
 You can view the BritePool status page here: [Status Page](https://britepool.github.io/issue-status/)
-You can view the original forked README page here: [ORIGINAL.md](./ORIGINAL.md)
 
-![Banner](/banner.gif?raw=true)
+You can view the original forked README page here: [ORIGINAL.md](./ORIGINAL.md)
 
 # Tracking Incidents
 
